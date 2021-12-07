@@ -1,6 +1,6 @@
 ### Привет, Друг!
 * Меня зовут Grey Cat, АКА Marakarka, АКА Виктор!
-* Пишу на Rust-Lang и иногда на Python, но при этоми умею верстать.
+* Пишу на Rust-Lang и иногда на Python, но при этом умею верстать.
 * В данный момент я разрабатываю [KerdokuBot](https://kerdoku.top) - Многофункциональный Discord бот.
 * Также я являюсь разработчиком Python-Модуля "boticordpy".
 * Найти меня можно [тут](https://discord.gg/5qXgJvr).

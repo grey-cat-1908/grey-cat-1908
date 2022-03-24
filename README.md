@@ -1,14 +1,34 @@
-### Привет, Друг!
-* Меня зовут Grey Cat, АКА Marakarka, АКА Виктор!
-* Пишу на Rust и иногда на Python, но при этом умею верстать.
-* В данный момент я разрабатываю [KerdokuBot](https://kerdoku.top) - Многофункциональный Discord бот.
-* Также я являюсь разработчиком SDK для сервиса Boticord (BoticordPY, BoticordRS).
-* Найти меня можно [тут](https://discord.gg/5qXgJvr).
+### Hello, Everyone!
 
-#### **Изучаемые языки и инструменты:**
+My name is [Victor](https://vk.com/greycat1908). I am only 1X years old. I am Russian student and a FullStack Web Developer, and also Python and Rust developer. <br>
+I started coding with Python, but now I use other languages.
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+I enjoy learning new things to become a better developer, always improving my coding skills and my workflow.<br>
 
-![grey-cat-1908 github stats](https://github-readme-stats.vercel.app/api?username=grey-cat-1908&theme=onedark&show_icons=true)
+<h2>Some Languages & Technologies I know, love & use: </h2>
 
-P.S. обожаю проекты JetBrains, спс за студ. лицензию.
+<div>
+<img src="assets/docker.svg" width="22px">
+<img src="assets/figma.svg" width="22px">
+<img src="assets/flask.svg" width="22px">
+<img src="assets/html.svg" width="22px">
+<img src="assets/js.svg" width="22px">
+<img src="assets/markdown.svg" width="22px">
+<img src="assets/mongodb.svg" width="22px">
+<img src="assets/nginx.svg" width="22px">
+<img src="assets/nodejs.svg" width="22px">
+<img src="assets/pgsql.svg" width="22px">
+<img src="assets/pypi.svg" width="22px">
+<img src="assets/pytest.svg" width="22px">
+<img src="assets/python.svg" width="22px">
+<img src="assets/redis.svg" width="22px">
+<img src="assets/rocket.svg" width="22px">
+<img src="assets/rust.svg" width="22px">
+<img src="assets/vue.svg" width="22px">
+</div>
+
+<h2>My Projects</h2>
+
+* Currently, my biggest project is [Melisa](https://melisapy.site/), a module I created to improve my skills and help other people. 
+* Discord Bot - [KerdokuBot](https://kerdoku.top/). But it is only in russian now.
+* [BotiCord](https://github.com/boticord) SDK: [boticordrs](https://github.com/boticord/boticordrs) (Rust); [boticordpy](https://github.com/boticord/boticordpy) (Python). Also I am developer of [BotiCord Material Docs](https://github.com/boticord/docs) and [BumpBot](https://boticord.top/bot/947141336451153931).

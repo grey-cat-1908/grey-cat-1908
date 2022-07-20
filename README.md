@@ -6,7 +6,7 @@ I enjoy learning new things to become a better developer, always improving my co
 
 <h2>Some Languages & Technologies I know, love & use: </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,python,rust,vue,bootstrap,arduino,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,python,rust,vue,bootstrap,arduino,mongodb,postgres,linux)](https://skillicons.dev)
 
 <h2>My Projects</h2>
 

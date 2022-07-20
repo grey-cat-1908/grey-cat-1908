@@ -1,31 +1,12 @@
 ### Hello, Everyone!
 
-My name is [Victor](https://vk.com/greycat1908). I am only 1X years old. I am Russian student and a FullStack Web Developer, and also Python and Rust developer. <br>
-I started coding with Python, but now I use other languages.
+My name is [Victor](https://vk.com/greycat1908). I am Russian student and maybe a programmer...?
 
 I enjoy learning new things to become a better developer, always improving my coding skills and my workflow.<br>
 
 <h2>Some Languages & Technologies I know, love & use: </h2>
 
-<div>
-<img src="assets/docker.svg" width="32px">
-<img src="assets/figma.svg" width="32px">
-<img src="assets/flask.svg" width="32px">
-<img src="assets/html.svg" width="32px">
-<img src="assets/js.svg" width="32px">
-<img src="assets/markdown.svg" width="32px">
-<img src="assets/mongodb.svg" width="32px">
-<img src="assets/nginx.svg" width="32px">
-<img src="assets/nodejs.svg" width="32px">
-<img src="assets/pgsql.svg" width="32px">
-<img src="assets/pypi.svg" width="32px">
-<img src="assets/pytest.svg" width="32px">
-<img src="assets/python.svg" width="32px">
-<img src="assets/redis.svg" width="32px">
-<img src="assets/rocket.svg" width="32px">
-<img src="assets/rust.svg" width="32px">
-<img src="assets/vue.svg" width="32px">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=git,python,rust,vue,bootstrap,arduino,mongodb,postgres)](https://skillicons.dev)
 
 <h2>My Projects</h2>
 

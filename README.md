@@ -1,8 +1,21 @@
 ### Hello, Everyone!
 
-My name is [Victor](https://vk.com/greycat1908). I am Russian student and maybe a programmer...?
+My name is Viktor (Victor). I am Russian student. I speak Russian ([native](https://en.wikipedia.org/wiki/Russian_language)), English ([~Upper Intermediate](https://learnenglish.britishcouncil.org/english-levels)) and German ([>Anfanger (A1-A2)](https://www.goethe.de/ins/in/de/spr/kon/stu.html)).
+
+p.s. My name is spelled Victor in English, but because my country adopted the French idea of transliteration (I don't actually know how it's called) - I am Viktor. So it would not be a mistake if you call me Victor/Viktor.
+
+You can contact me via [Telegram](https://t.me/Grey31) or [Email](mail@kerdoku.top). I won't eat you (you're not watermelons).
+
+I enjoy studying and I believe it will allow me to achieve all my goal.
+I think I am good at Informatics, Economy, Physics and [Maths](https://www.thesaurus.com/e/grammar/math-vs-maths/#:~:text=Math%20is%20the%20preferred%20term,places%20while%20maths%20was%20elsewhere.)
+...bbb..ut... there is an exception: i dont like studying biology
+
+<strong>My main goal is to make our world a much better, safer and easier place for everyone.</strong><br>
+
+<h2>My coding position: </h2>
 
 I enjoy learning new things to become a better developer, always improving my coding skills and my workflow.<br>
+...and I believe in [Open-Source](https://en.wikipedia.org/wiki/Open_source).<br>
 
 <h2>Some Languages & Technologies I know, love & use: </h2>
 

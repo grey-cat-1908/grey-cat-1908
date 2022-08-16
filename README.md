@@ -1,6 +1,6 @@
 ### Hello, Everyone!
 
-My name is Viktor (Victor). I am Russian student. I speak Russian ([native](https://en.wikipedia.org/wiki/Russian_language)), English ([~Upper Intermediate](https://learnenglish.britishcouncil.org/english-levels)) and German ([>Anfanger (A1-A2)](https://www.goethe.de/ins/in/de/spr/kon/stu.html)).
+My name is Viktor (Victor) [he/him]. I am Russian student. I speak Russian ([native](https://en.wikipedia.org/wiki/Russian_language)), English ([~Upper Intermediate](https://learnenglish.britishcouncil.org/english-levels)) and German ([>Anfanger (A1-A2)](https://www.goethe.de/ins/in/de/spr/kon/stu.html)).
 
 p.s. My name is spelled Victor in English, but because my country adopted the French idea of transliteration (I don't actually know how it's called) - I am Viktor. So it would not be a mistake if you call me Victor/Viktor.
 

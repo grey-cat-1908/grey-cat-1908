@@ -27,5 +27,6 @@ I enjoy learning new things to become a better developer, always improving my co
 * Discord Bot - [KerdokuBot](https://kerdoku.top/). But it is only in russian now.
 * [BotiCord](https://github.com/boticord) SDK: 
     * [boticordrs](https://github.com/boticord/boticordrs) (Rust);
+    * [boticordrs](https://github.com/grey-cat-1908/boticorddart) (Dart);
     * [boticordpy](https://github.com/boticord/boticordpy) (Python). 
     * Also I am developer of [BotiCord Material Docs](https://github.com/boticord/docs) and [BumpBot](https://boticord.top/bot/947141336451153931).

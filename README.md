@@ -4,7 +4,7 @@ My name is Viktor (Victor) [he/him]. I am Russian student. I speak Russian ([nat
 
 p.s. My name is spelled Victor in English, but because my country adopted the French idea of transliteration (I don't actually know how it's called) - I am Viktor. So it would not be a mistake if you call me Victor/Viktor.
 
-You can contact me via [Telegram](https://t.me/Grey31) or [Email](mail@kerdoku.top). I won't eat you if you're not watermelons.
+You can contact me via [Telegram](https://t.me/Grey31) or [Email](mailto:mail@kerdoku.top). I won't eat you if you're not watermelons.
 
 I enjoy studying and I believe it will help me achieve all my goals. <br>
 I think I am good at Informatics, Economy, Physics and [Maths](https://www.thesaurus.com/e/grammar/math-vs-maths/#:~:text=Math%20is%20the%20preferred%20term,places%20while%20maths%20was%20elsewhere.) <br>

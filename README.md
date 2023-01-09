@@ -7,8 +7,7 @@ p.s. My name is spelled Victor in English, but because my country adopted the Fr
 You can contact me via [Telegram](https://t.me/Grey31) or [Email](mailto:mail@kerdoku.top). I won't eat you if you're not watermelons.
 
 I enjoy studying and I believe it will help me achieve all my goals. <br>
-I think I am good at Informatics, Economy, Physics and [Maths](https://www.thesaurus.com/e/grammar/math-vs-maths/#:~:text=Math%20is%20the%20preferred%20term,places%20while%20maths%20was%20elsewhere.) <br>
-...bbb..ut... there is an exception: i dont like studying biology <br>
+I think I am good at Informatics, Economy and [Maths](https://www.thesaurus.com/e/grammar/math-vs-maths/#:~:text=Math%20is%20the%20preferred%20term,places%20while%20maths%20was%20elsewhere.) <br>
 
 <strong>My main goal is to make our world a much better, safer and easier place for everyone.</strong><br>
 

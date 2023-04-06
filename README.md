@@ -2,17 +2,15 @@
 
 My name is Viktor (Victor) [he/him]. I am Russian student. I speak Russian ([native](https://en.wikipedia.org/wiki/Russian_language)), English ([~Upper Intermediate](https://learnenglish.britishcouncil.org/english-levels)) and German ([>Anfanger (A1-A2)](https://www.goethe.de/ins/in/de/spr/kon/stu.html)).
 
-You can contact me via [Telegram](https://t.me/Grey31) or [Email](mailto:mail@kerdoku.top). I won't eat you if you're not watermelons.
+You can contact me via [Telegram](https://t.me/Grey31) or [Email](mailto:mail@kerdoku.top).
 
 I enjoy studying and I believe it will help me achieve all my goals. <br>
 I think I am good at Informatics, Economy and [Maths](https://www.thesaurus.com/e/grammar/math-vs-maths/#:~:text=Math%20is%20the%20preferred%20term,places%20while%20maths%20was%20elsewhere.) <br>
+Also I am interested in Geography and Astronomy. <br>
 
 <strong>My main goal is to make our world a much better, safer and easier place for everyone.</strong><br>
 
-<h2>My coding position: </h2>
-
 I enjoy learning new things to become a better developer, always improving my coding skills and my workflow.<br>
-...and I believe in [Open-Source](https://en.wikipedia.org/wiki/Open_source).<br>
 
 <h2>Some Languages & Technologies I know, love & use: </h2>
 

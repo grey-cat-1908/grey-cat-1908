@@ -14,6 +14,7 @@ I enjoy learning new things to become a better developer, always improving my co
 
 <h2>Ways to support me</h2>
    - [Boosty.to](https://boosty.to/greycat1908)
+
    - TON: <code>EQCwcuavUwRamZ0pCPr37rBf4TlJXtKCdaXBNkptfZMRtz2R</code>
 
 <h2>Some Languages & Technologies I know, love & use: </h2>

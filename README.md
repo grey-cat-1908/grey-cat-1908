@@ -13,8 +13,8 @@ Also I am interested in Geography and Astronomy. <br>
 I enjoy learning new things to become a better developer, always improving my coding skills and my workflow.<br>
 
 <h2>Ways to support me</h2>
-* [Boosty.to](boosty.to)
-* TON: `EQCwcuavUwRamZ0pCPr37rBf4TlJXtKCdaXBNkptfZMRtz2R`
+<li>[Boosty.to](https://boosty.to/greycat1908)</li>
+<li>TON: `EQCwcuavUwRamZ0pCPr37rBf4TlJXtKCdaXBNkptfZMRtz2R`</li>
 
 <h2>Some Languages & Technologies I know, love & use: </h2>
 

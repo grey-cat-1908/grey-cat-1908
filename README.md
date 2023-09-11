@@ -24,7 +24,7 @@ I enjoy learning new things to become a better developer, always improving my co
 <h2>My Projects</h2>
 
 * Currently, my biggest project is [Melisa](https://melisapy.site/), a module I created to improve my skills and help other people. 
-* Discord Bot - [KerdokuBot](https://kerdoku.top/). But it is only in russian now.
+* Discord Bot - [KerdokuBot](https://kerdoku.top/). But it is only in russian now. (Archived)
 * [BotiCord](https://github.com/boticord) SDK: 
     * [boticordrs](https://github.com/boticord/boticordrs) (Rust; Archived);
     * [boticorddart](https://github.com/grey-cat-1908/boticorddart) (Dart; Archived);
